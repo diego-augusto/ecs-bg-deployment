@@ -24,4 +24,4 @@ jobs:
               with:
                 context: .
                 push: true
-                tags: diego-augusto/health:${{ github.sha }}
+                tags: diegodev/health:${{ github.sha }}
